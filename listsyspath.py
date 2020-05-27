@@ -1,4 +1,4 @@
 import sys  
 import os
 
-print(sys.path)
+print("\n",sys.path)
